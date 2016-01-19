@@ -5,7 +5,7 @@ class CreateDoctors < ActiveRecord::Migration
       t.string :address
       t.string :city
       t.string :state
-      t.string :zip, :limit => 5
+      t.integer :zip
       t.string :school
       t.integer :years
 
