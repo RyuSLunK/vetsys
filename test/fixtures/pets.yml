@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  type: 
+  breed: MyString
+  age: 1
+  weight: 1
+  previous_visit: 2016-01-19 10:28:24
+
+two:
+  name: MyString
+  type: 
+  breed: MyString
+  age: 1
+  weight: 1
+  previous_visit: 2016-01-19 10:28:24
